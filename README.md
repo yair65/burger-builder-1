@@ -1,3 +1,5 @@
+CURRENT SPOT 09/07/20: https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8125730#content
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
